@@ -1,1 +1,7 @@
-
+#Number Guessing game output
+Guess a number between 1 and 100:23
+too low!
+Guess a number between 1 and 100:78
+too high!
+Guess a number between 1 and 100:54
+correct!you gueesed the number

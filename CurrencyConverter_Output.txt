@@ -1,5 +1,0 @@
-Available currencies: USD, EUR, INR, GBP
-Enter base currency: USD
-Enter target currency: INR
-Enter amount to convert: 100
-100.0 USD = 8250.0 INR

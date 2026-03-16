@@ -1,4 +1,0 @@
-BankAccount Transactions:
-Deposited: 500
-Withdrawn: 200
-Current Balance: 5300

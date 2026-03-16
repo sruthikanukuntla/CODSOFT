@@ -1,3 +1,0 @@
-Student Grades:
-Sruthi : 88 : B
-Ravi : 67 : C
